@@ -369,7 +369,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <!-- License + Copyright -->
 <p  align="center">
   <i>© <a href="https://threatcode.github.io">Threat Code</a> 2022-23</i><br>
-  <i>Licensed under <a href="https://gist.github.com/ThreatCode/143d2ee01ccc5c052a17">MIT</a></i><br>
+  <i>Licensed under <a href="https://github.com/threatcode/Brewfile/blob/master/LICENSE">MIT</a></i><br>
   <a href="https://github.com/threatcode"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <sup>Thanks for visiting :)</sup>
 </p>
